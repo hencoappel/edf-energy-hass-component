@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@hencoappel"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/hencoappel/edf-energy-hass-component",
+  "domain": "edfenergy",
+  "iot_class": "calculated",
+  "name": "EDF Energy",
+  "requirements": [],
+  "version": "1.0.0"
+}
